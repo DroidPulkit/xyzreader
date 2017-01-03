@@ -22,7 +22,7 @@
     <color name="ltgray">#ffe0e0e0</color>
 
     <color name="primary">#FF5722</color>
-    <color name="primary_dark">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
     <color name="accent">#0091EA</color>
     <color name="accent_translucent">#40C4FF</color>
     <color name="accent_bright">#80D8FF</color>
